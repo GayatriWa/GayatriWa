@@ -18,9 +18,8 @@ I'm a Frontend Developer with 3 years of overall IT experience and hands-on expe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GayatriWa&show_icons=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=GayatriWa)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriWa&layout=compact)
 
 
 
