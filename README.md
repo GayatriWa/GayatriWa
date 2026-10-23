@@ -148,8 +148,7 @@ Sipna College of Engineering and Technology, Amravati
 
 ## 📫 Connect With Me
 
-- **GitHub:** [Add your GitHub profile URL]
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/gayatridwankhade
 - **Email:** gayatridwankhade@gmail.com
 
 ---
