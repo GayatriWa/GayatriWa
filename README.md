@@ -1,60 +1,159 @@
-<h1 align="center">Hi 👋, I'm Gayatri Wankhade</h1>
+# Hi, I'm Gayatri Wankhade 👋
 
-<h3 align="center">
-React Frontend Developer | MERN Stack Developer
-</h3>
+### .NET Full Stack Developer | C# | ASP.NET Core | React | SQL Server | Azure
 
-I'm a Frontend Developer with 3 years of overall IT experience and hands-on experience building responsive web applications using React.js, JavaScript, Redux, Tailwind CSS, REST APIs, and the MERN stack. I enjoy building clean, scalable, and user-friendly applications while continuously improving my development skills.
+I'm a .NET Full Stack Developer with 3 years of experience building and maintaining scalable web applications, RESTful APIs, and backend services.
 
+I enjoy solving problems, improving application performance, and building reliable software using Microsoft technologies.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🔭 **Experience:** Cognizant and KPIT Technologies
+- 💻 **Backend:** C#, .NET Core, ASP.NET Core, ASP.NET Web API
+- 🎨 **Frontend:** React.js, JavaScript, HTML, CSS
+- 🗄️ **Database:** SQL Server, Entity Framework Core, LINQ, Stored Procedures
+- ☁️ **Cloud & DevOps:** Microsoft Azure, Azure App Services, Docker, GitHub Actions
+- 🔐 **Security:** JWT Authentication and Authorization
+- 🧰 **Tools:** Git, GitHub, GitLab, Postman, Swagger
+- 📚 **Principles:** REST APIs, Microservices, Dependency Injection, Middleware, SOLID
+- 🤝 **Methodology:** Agile/Scrum
 
+---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
+**Languages**
+- C#
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GayatriWa)
+**Backend Development**
+- .NET Core
+- ASP.NET Core
+- ASP.NET Web API
+- RESTful APIs
+- Microservices
+- Entity Framework Core
+- LINQ
 
+**Frontend Development**
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
+**Database**
+- Microsoft SQL Server
+- Stored Procedures
+- Query Optimization
+- Indexing
 
-## 🚀 Tech Stack
+**Cloud & DevOps**
+- Microsoft Azure
+- Azure App Services
+- Docker
+- GitHub Actions (CI/CD)
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React.js, JavaScript, Redux, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Tools** | Git, GitHub, VS Code, Postman |
+**Tools & Practices**
+- Git and GitHub
+- GitLab
+- Postman
+- Swagger
+- JWT Authentication
+- Dependency Injection
+- SOLID Principles
+- Agile/Scrum
 
-## 💼 Featured Projects
+---
 
-### 📌 Task Management Application
+## 💼 Professional Experience
 
-A full-stack MERN application with user authentication and task management features.
+### Senior Systems Executive — Cognizant
+*May 2024 – June 2026 | Pune, India*
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+**Project: Baxter – Medical Device Management System**
 
-### 📌 E-Commerce Web Application
+- Developed and optimized RESTful APIs and microservices using C# and ASP.NET Core.
+- Improved API response times through query optimization and efficient data handling.
+- Optimized SQL Server queries, indexes, and stored procedures.
+- Implemented JWT-based authentication and authorization.
+- Tested APIs using Postman and documented endpoints using Swagger.
+- Deployed and monitored applications on Azure App Services.
+- Collaborated with QA and cross-functional teams to deliver quality releases.
 
-A responsive MERN e-commerce application with product listing, cart functionality, and REST API integration.
+### Engineer Trainee — KPIT Technologies
+*November 2021 – July 2022 | Pune, India*
 
-**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+**Project: Mentor-Mentee Connect Application**
 
-## 🌱 Currently Learning
+- Developed backend APIs using .NET Core and C#.
+- Used Entity Framework Core and LINQ for database operations.
+- Designed and optimized SQL Server tables, stored procedures, and indexes.
+- Implemented JWT authentication and role-based authorization.
+- Integrated React components with REST APIs.
+- Deployed and monitored APIs on Azure App Services.
+- Participated in Agile/Scrum ceremonies and collaborated with development teams.
 
-* Advanced React
-* MERN Stack Development
-* System Design Fundamentals
+---
 
-## 📫 Connect with Me
+## 🚀 Featured Projects
 
-* LinkedIn: https://www.linkedin.com/in/gayatridwankhade/
-* Email: gayatridwankhade@gmail.com
+### 1. ASP.NET Core REST API
+A backend application demonstrating RESTful API development using C# and ASP.NET Core.
 
-⭐ Thanks for visiting my profile!
+**Technologies:** C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, Swagger
+
+**Planned features:**
+- CRUD operations
+- Dependency Injection
+- Input validation and error handling
+- API documentation
+- Database integration
+
+### 2. JWT Authentication API
+An API demonstrating secure authentication and role-based authorization.
+
+**Technologies:** C#, ASP.NET Core, JWT, SQL Server
+
+**Planned features:**
+- User registration and login
+- JWT token generation and validation
+- Role-based authorization
+- Protected API endpoints
+
+### 3. Full Stack Task Management Application
+A full stack application for creating, updating, tracking, and managing tasks.
+
+**Technologies:** ASP.NET Core Web API, React.js, SQL Server, Entity Framework Core
+
+**Planned features:**
+- Task creation and management
+- REST API integration
+- Database persistence
+- Responsive user interface
+
+> These are suggested portfolio projects. Add repository links after implementing them; they are not claimed as completed projects.
+
+---
+
+## 🎓 Certifications
+
+- .NET Core Backend Development — QSpiders, Pune
+- Microsoft Azure + DevOps Course — Naresh Technologies
+
+## 🎓 Education
+
+**Bachelor of Engineering — Information Technology**
+
+Sipna College of Engineering and Technology, Amravati  
+2018–2021
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [Add your GitHub profile URL]
+- **LinkedIn:** [Add your LinkedIn profile URL]
+- **Email:** gayatridwankhade@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
+
+I'm always interested in learning new technologies, improving my development skills, and building useful software solutions.
